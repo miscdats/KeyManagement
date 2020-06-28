@@ -1,6 +1,10 @@
-# ad440-winter2020-thursday-repo
+# KeyManagement by Spring Folk Team - for Umano Properties
 
-Welcome to the North Seattle AD440 "Key" Cloud Computing Practicum! 
+KeyManagement repo holds the code for the web app hosted service in AWS cloud environment.
+
+Code is automated managed CI/CD in Travis, using resources like EC2, RDS, S3, Lambdas, load balancing, security groups, etc.
+
+The wiki holds more info on APIs and infrastructure: https://github.com/miscdats/KeyManagement/wiki
 
 <img src="https://images.squarespace-cdn.com/content/5228e894e4b00447185d2c56/1394481397266-JUTE1J8X6D6BZHTQJU7H/key.png?content-type=image%2Fpng" title="Key Project">
 
@@ -18,3 +22,6 @@ https://reactjs.org/
 
 ### MySQL
 https://www.mysql.com/
+
+
+Note: Infrastructure and APIs delivered, formal UI not included.
